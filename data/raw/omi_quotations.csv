@@ -1,0 +1,9 @@
+anno,semestre,regione,provincia,comune,codice_zona,fascia,zona_omi,destinazione,tipologia,stato_conservativo,prezzo_min_mq,prezzo_max_mq,superficie_vendita,affitto_min_mq_mese,affitto_max_mq_mese,superficie_locazione
+2025,2,Sicilia,Palermo,Palermo,B20,Centrale,XX SETT-CORLEO-POLITEAMA-VILLAREALE-R.SETTIMO-CAVOUR-ROMA,Residenziale,Abitazioni civili,Normale,1950,2850,L,5.5,8.0,L
+2025,2,Sicilia,Palermo,Palermo,E3,Suburbana,R.MARGHERITA-MONDELLO VALDESI-TOLOMEA-M.ALLIATA-MONDELLO PAESE,Residenziale,Abitazioni civili,Normale,1650,2250,L,4.1,5.6,L
+2025,2,Sicilia,Palermo,Palermo,C1,Semicentrale,SCIUTI-NOTARBARTOLO-VILLABIANCA-DE GASPERI-GIOTTO-NEBRODI-GALILEI,Residenziale,Abitazioni civili,Normale,1550,1950,L,6.0,8.0,L
+2025,2,Sicilia,Palermo,Palermo,B14,Centrale,VITTORIO EMANUELE-MAQUEDA-ROMA,Residenziale,Abitazioni civili,Normale,1400,2000,L,6.5,8.5,L
+2025,2,Sicilia,Palermo,Palermo,D1,Periferica,CIRCONVALLAZIONE-V.NUOVA-QUARTIERI-NISCEMI-S.LORENZO-VILLA SOFIA-V.SARDEGNA-BELGIO-STRASBURGO,Residenziale,Abitazioni civili,Normale,1450,1850,L,5.0,7.0,L
+2025,2,Sicilia,Palermo,Palermo,C4,Semicentrale,E.BASILE-MONTEGRAPPA-CLINICHE-STAZIONE C.LE-ORTO BOTANICO,Residenziale,Abitazioni civili,Normale,1000,1350,L,6.0,8.0,L
+2025,2,Sicilia,Palermo,Palermo,B7,Centrale,BORGO VECCHIO,Residenziale,Abitazioni civili,Normale,900,1250,L,2.8,4.1,L
+2025,2,Sicilia,Palermo,Palermo,C10,Semicentrale,RIONE DANISINNI,Residenziale,Abitazioni civili,Normale,750,1050,L,2.6,3.4,L
