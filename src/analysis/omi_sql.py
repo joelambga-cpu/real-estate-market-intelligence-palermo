@@ -22,6 +22,7 @@ DB_FILE = (
 df = pd.read_csv(PROCESSED_FILE)
 
 # 2. Connessione SQLite
+DB_FILE.parent.mkdir(parents=True, exist_ok=True)
 conn = sqlite3.connect(DB_FILE)
 
 # 3. Carichiamo il DataFrame nel database
